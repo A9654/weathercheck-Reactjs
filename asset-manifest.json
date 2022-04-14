@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/weathercheck-Reactjs/static/css/main.4be08585.css",
+    "main.js": "/weathercheck-Reactjs/static/js/main.c9e9cf33.js",
+    "static/js/787.c5a43a3d.chunk.js": "/weathercheck-Reactjs/static/js/787.c5a43a3d.chunk.js",
+    "static/media/logo.svg": "/weathercheck-Reactjs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/weathercheck-Reactjs/index.html",
+    "main.4be08585.css.map": "/weathercheck-Reactjs/static/css/main.4be08585.css.map",
+    "main.c9e9cf33.js.map": "/weathercheck-Reactjs/static/js/main.c9e9cf33.js.map",
+    "787.c5a43a3d.chunk.js.map": "/weathercheck-Reactjs/static/js/787.c5a43a3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4be08585.css",
+    "static/js/main.c9e9cf33.js"
+  ]
+}
